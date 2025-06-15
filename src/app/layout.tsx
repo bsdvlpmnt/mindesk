@@ -4,6 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Mindesk",
   description: "Have a good day",
+  icons: { icon: "data:," }
 };
 
 export default function RootLayout({
